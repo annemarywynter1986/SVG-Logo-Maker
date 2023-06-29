@@ -62,11 +62,12 @@ THEN I am shown a 300x200 pixel image that matches the criteria I entered
 
 ## Screenshots:
 ### Figure 1. Command line application
-![](./images/svg-logo-maker.png) 
+![image](https://github.com/annemarywynter1986/SVG-Logo-Maker/assets/130412307/815926b1-e38f-4d1a-9048-c11d74fc0c64)
+
 ### Figure 2. Jest Testing "npm test"
-![](./images/jest-test.png)
-### Figure 3. Generated "logo.svg" file
-![](./images/generated-logo.svg.png)
+![jest screenshot](https://github.com/annemarywynter1986/SVG-Logo-Maker/assets/130412307/63408d05-4aca-4f21-97c8-a726ba66d12c)
+
+
 
 ## Installation Process
 1. Clone the repository: https://github.com/annemarywynter1986/SVG-Logo-Maker.git
