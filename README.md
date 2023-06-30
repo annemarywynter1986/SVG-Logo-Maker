@@ -58,14 +58,20 @@ THEN I am shown a 300x200 pixel image that matches the criteria I entered
 [Solution URL Link:](https://github.com/annemarywynter1986/SVG-Logo-Maker.git)
 
 ## Walkthrough Video:
-[Click Here to Watch]()
+[Click Here to Watch](https://drive.google.com/file/d/1vszkYmcVkDdqjsNl7TjwWj6vGuHz8m4X/view?usp=sharing)
 
 ## Screenshots:
 ### Figure 1. Command line application
 ![image](https://github.com/annemarywynter1986/SVG-Logo-Maker/assets/130412307/815926b1-e38f-4d1a-9048-c11d74fc0c64)
 
+![Untitled design (8)](https://github.com/annemarywynter1986/SVG-Logo-Maker/assets/130412307/54843d89-8d0b-4841-b227-a1745475ab32)
+
+
 ### Figure 2. Jest Testing "npm test"
 ![jest screenshot](https://github.com/annemarywynter1986/SVG-Logo-Maker/assets/130412307/63408d05-4aca-4f21-97c8-a726ba66d12c)
+
+![Untitled design (7)](https://github.com/annemarywynter1986/SVG-Logo-Maker/assets/130412307/92893811-3aa6-4fe0-8b25-06fda0b63e6d)
+
 
 
 
